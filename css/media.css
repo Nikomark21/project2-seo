@@ -1,0 +1,194 @@
+@media (max-width: 500px) {
+    .hubspot-button .hubspot-logo {
+        height: 100px;
+    }
+    body {
+        width: 1500px;
+    }
+    .main-page{
+        width: 1100px;
+        padding-left: 40px;
+    }
+    .main-topic{
+        width: 1100px;
+    }
+    .second-main-section p
+    {
+        font-size: 70px;
+        line-height:normal;
+        width: 1200px;
+    }
+    li{
+        font-size: 70px;
+        line-height:normal;
+    }
+    .closing-page a{
+        font-size: 50px;
+        line-height:normal;
+    }
+    .closing-page p{
+        font-size: 50px;
+        line-height:normal;
+    }
+    .side-section {
+        display: none;
+    }
+    h1,
+    h2,
+    h3 {font-size: 50px;
+        line-height: 100px;}
+    .img {
+        height: 800px;
+        margin-left: 0px;
+        border-style: none;
+        max-width: 1300px;
+    }
+    .header-anchor {
+        font-size: 80px;
+    }
+    .bottom-section {
+        height: 400px
+    }
+    .top-section {
+        height: 200px;
+        width: 1250px;
+        padding-left: 0px;
+        justify-content: space-between
+    }
+    .top-right-section{
+        display: none;
+    }
+    .burger-button {
+        border-width: 0px;
+        height:70px;
+        background-color: white;
+        cursor: pointer;
+        visibility: visible;
+
+    }
+    .burger-button .burger-menu {
+        height: 70px;
+    }
+    .bottom-section-text2 {
+        font-size: 90px;
+        visibility: visible;
+        padding-top: 200px;
+        padding-left: 450px;
+    }
+    
+    .bottom-section-text {
+        display: none;
+    }
+    .secret-div {
+        visibility: visible;
+        display: flex;
+        justify-content: space-between;
+    }
+    .bellow {
+        display: none;
+    }
+    .font-bellow1,
+    .font-bellow2 {
+        font-size: 50px;
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .lower-Div{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        height: 600px;
+        width: 1000px;
+        align-items: center;
+    }
+    .left-lower-Div{
+       height: 500px;
+       width: 300px;
+       float: left;
+    }
+    .left-lower-Div p {
+        font-size: 60px;
+        padding-right: 300px;
+        line-height: 80px;
+    }
+    .right-lower-Div {
+       height: 500px;
+       width: 300px;
+       float: right;
+    }
+    .right-lower-Div p {
+        font-size: 60px;
+        padding-left: 300px;
+        line-height: 80px;
+    }
+    .footer {
+        height: 900px;
+        display: block;
+    }
+    .footer-logo {
+        height: 100px;
+    }
+    .left1-footer {
+        width: 900px;
+        display: block;
+    }
+    .left1-footer p{
+        font-size: 60px;
+        line-height: normal;
+    }
+    .right-footer{
+        display: flex;
+        justify-content: flex-start;
+    }
+    .text{
+        font-size:50px;
+        line-height: normal;
+    }
+    .div-footer1 {
+        margin-right: 30px;
+    }
+    .div-footer2 {
+        margin-left: 30px;
+    }
+    .icon,
+    .right-logo {
+       margin-top: 40px;
+    }
+    .creator {
+        font-size : 30px;
+        padding-bottom: 50px;
+    }
+    .twitter-pic,
+    .instagram-pic,
+    .youtube-pic{
+        height : 80px
+    }
+    .lower-Div4 {
+        display: none;
+    }
+    .more-topic {
+        font-size: 90px;
+    }
+    .swiper {
+        height: 700px;
+    }
+    .slides {
+        height: 700px;
+        width: 450px;
+    }
+    .st {
+        font-size: 50px;
+        line-height: normal;
+    }
+    .slide-img1,
+    .slide-img2,
+    .slide-img3,
+    .slide-img4,
+    .slide-img5,
+    .slide-img6,
+    .slide-img7 {
+        height: 250px;
+        padding-top: 60px;
+    }
+    }
+
+    
